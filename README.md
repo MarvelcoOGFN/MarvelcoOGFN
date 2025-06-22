@@ -1,8 +1,10 @@
 ## Hi there 👋
 
--Ogfn dev that specializes on making game servers (Formerly Backends)
--Langs: C++, JS, C# , Py , C, TS
--Contact me on Discord: Marvelco
+### Ogfn dev that specializes on making game servers (Formerly Backends)
+
+### Langs: C++, JS, C# , Py , C, TS
+
+### Contact me on Discord: Marvelco
 
 ![Discord](https://komarev.com/ghpvc/?username=MarvelcoOGFN&color=blue)
 

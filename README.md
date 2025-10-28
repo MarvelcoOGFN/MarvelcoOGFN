@@ -6,6 +6,8 @@
 
 ### Contact me on Discord: Marvelco
 
+### Ero OGFN Hub: https://discord.gg/hktTCFv343
+
 ![Discord](https://komarev.com/ghpvc/?username=MarvelcoOGFN&color=blue)
 
 ![Discord](https://discord.c99.nl/widget/theme-4/1348017609060389017.png)
